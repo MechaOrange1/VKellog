@@ -3,9 +3,10 @@
 This is a responsive business website I made for Vkellog, a fictional multinational company renowned for its production of breakfast foods and snacks. This was developed as a final project for the Human Computer Interaction (HCI) Lab course at my university.
 
 ## Live Demo
+https://mechaorange1.github.io/VKellog/
 
 ## Screenshot
-![VKellog Website Homepage](./images/screenshot.png)
+![VKellog Website Homepage](./docs/images/screenshot.png)
 
 ## Features
 - **Product Showcase:** A page to display the company's available products both for adults and kids.
